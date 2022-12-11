@@ -1,4 +1,4 @@
 #the first code
 
 if __name__ == "__main__":
-    print("code was started")
+    print("code was starte")
